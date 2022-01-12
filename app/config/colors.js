@@ -1,0 +1,18 @@
+export default {
+  primary: "#fc5c65",
+  secondary: "#4ecdc4",
+  black: "#000",
+  white: "#fff",
+  medium: "#6e6969",
+  light: "#f8f4f4",
+  dark: "#0c0c0c",
+  danger: "#ff5252",
+  yellowBelt: "#FDFB00",
+  orangeBelt: "#FF8600",
+  purpleBelt: "#8F00F2",
+  blueBelt: "#00CFFB",
+  greenBelt: "#5Cff00",
+  brownThreeBelt: "#E0A387",
+  brownTwoBelt: "#B96A59",
+  brownOneBelt: "#743A36",
+};
