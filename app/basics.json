@@ -1,0 +1,639 @@
+[
+  {
+      "name": "Neutral Bow",
+      "type": "Stance",
+      "belt": "Yellow",
+      "description": "Natural stance, drop leg back, feet at 45 degrees, front toe parallel to rear heel, front arm out at 90 degrees in front of face, rear arm in close covering midsection."
+  },
+  {
+      "name": "Horse Stance",
+      "type": "Stance",
+      "belt": "Yellow",
+      "description": "Feet outside shoulder width, knees bent, hands at side bent, fists in at waist, knees out over ankles."
+  },
+  {
+      "name": "Formal Horse",
+      "type": "Stance",
+      "belt": "Yellow",
+      "description": "Horse stance with hands in a saluting position—left open hand over right closed fist."
+  },
+  {
+      "name": "Training Horse",
+      "type": "Stance",
+      "belt": "Yellow",
+      "description": "Horse stance with both hands chambered at your side."
+  },
+  {
+      "name": "Attention",
+      "type": "Stance",
+      "belt": "Yellow",
+      "description": "Toes and heels together, hands at sides."
+  },
+  {
+      "name": "Forward Bow",
+      "type": "Stance",
+      "belt": "Yellow",
+      "description": "From a Neutral Bow, turn rear foot to face front, rear foot flat, rear leg straight, front knee bent. Should not be ale to see front toes."
+  },
+  {
+      "name": "Reverse Bow",
+      "type": "Stance",
+      "belt": "Yellow",
+      "description": "Forward Bow, turn head to look backwards."
+  },
+  {
+      "name": "Inward Block",
+      "type": "Block",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Vertical Outward Block",
+      "type": "Block",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Upward Block",
+      "type": "Block",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Downward Block",
+      "type": "Block",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Extended Outward Block",
+      "type": "Block",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Inward Parry",
+      "type": "Parry",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Outward Parry",
+      "type": "Parry",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Vertical Thrust",
+      "type": "Punch",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Vertical Snap",
+      "type": "Punch",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Horizontal (straight) Thrust",
+      "type": "Punch",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Horizontal (straight) Snap",
+      "type": "Punch",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Straight Heelpalm",
+      "type": "Strike",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Inward Handsword",
+      "type": "Strike",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Outward Handsword",
+      "type": "Strike",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Inward Elbow",
+      "type": "Strike",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Outward Elbow",
+      "type": "Strike",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Back Elbow",
+      "type": "Strike",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Inward Overhead Elbow",
+      "type": "Strike",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Back Hammerfist",
+      "type": "Strike",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Straight Thrust",
+      "type": "Finger Technique",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Outward Whip",
+      "type": "Finger Technique",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Overhead Claw",
+      "type": "Finger Technique",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Front Snap",
+      "type": "Kick",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Side Snap",
+      "type": "Kick",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Back Snap",
+      "type": "Kick",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Roundhouse Kick",
+      "type": "Kick",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Step Drag",
+      "type": "Foot Maneuver",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Drag Step",
+      "type": "Foot Maneuver",
+      "belt": "Yellow"
+  },
+  {
+      "name": "Step Through",
+      "type": "Foot Maneuver",
+      "belt": "Yellow"
+  },
+  {
+      "name": "One Leg",
+      "type": "Stance",
+      "belt": "Orange"
+  },
+  {
+      "name": "Underhand Reverse Hammerfist",
+      "type": "Strike",
+      "belt": "Orange"
+  },
+  {
+      "name": "90 Degree Cat",
+      "type": "Stance",
+      "belt": "Purple",
+      "description": "Start with the heel of one foot up against the instep of your other foot (your feet are at a 90 degree angle to each other). Slide the heel foot forward so the heel is where the toes were. Move up onto the ball of that foot."
+  },
+  {
+      "name": "45 Degree Cat",
+      "type": "Stance",
+      "belt": "Purple",
+      "description": "Start with your heels together, toes apart at a 45 degree angle. Move the heel of one foot forward so the heel is where the toes of that foot were. Move up onto the ball of that foot."
+  },
+  {
+      "name": "Front Twist",
+      "type": "Stance",
+      "belt": "Purple",
+      "description": "From a Neutral Bow, move your rear leg forward in front of your front leg and towards the corner so that the inside of your foot is facing the corner. Up on the ball of your other foot, keep knees bent."
+  },
+  {
+      "name": "Rear Twist",
+      "type": "Stance",
+      "belt": "Purple",
+      "description": "From a Neutral Bow, move your rear leg forward behind of your front leg and towards the corner so that the inside of your foot is facing the corner. Up on the ball of your other foot, keep knees bent."
+  },
+  {
+      "name": "Wide Kneel",
+      "type": "Stance",
+      "belt": "Purple",
+      "description": "From neutral Bow, bend rear knee and stay up on ball of rear foot, rear knee at 45 degrees, foot pointing outward."
+  },
+  {
+      "name": "Inside Downward Palm Up",
+      "type": "Block",
+      "belt": "Purple"
+  },
+  {
+      "name": "Inside Downward Palm Down",
+      "type": "Block",
+      "belt": "Purple"
+  },
+  {
+      "name": "Push Down",
+      "type": "Block",
+      "belt": "Purple"
+  },
+  {
+      "name": "Downward Parry",
+      "type": "Parry",
+      "belt": "Purple"
+  },
+  {
+      "name": "Inside Downward Parry",
+      "type": "Parry",
+      "belt": "Purple"
+  },
+  {
+      "name": "Vertical Back Knuckle Thrust",
+      "type": "Punch",
+      "belt": "Purple"
+  },
+  {
+      "name": "Vertical Back Knuckle Snap",
+      "type": "Punch",
+      "belt": "Purple"
+  },
+  {
+      "name": "Uppercut",
+      "type": "Punch",
+      "belt": "Purple"
+  },
+  {
+      "name": "Roundhouse Punch",
+      "type": "Punch",
+      "belt": "Purple"
+  },
+  {
+      "name": "Upward Elbow",
+      "type": "Strike",
+      "belt": "Purple"
+  },
+  {
+      "name": "Forward Horizontal Forearm",
+      "type": "Strike",
+      "belt": "Purple"
+  },
+  {
+      "name": "Back Horizontal Forearm",
+      "type": "Strike",
+      "belt": "Purple"
+  },
+  {
+      "name": "Inward Diagonal Inner-Wrist Bone",
+      "type": "Strike",
+      "belt": "Purple"
+  },
+  {
+      "name": "Inward Horizontal Heel of Palm",
+      "type": "Strike",
+      "belt": "Purple"
+  },
+  {
+      "name": "Underhand Heel of Palm",
+      "type": "Strike",
+      "belt": "Purple"
+  },
+  {
+      "name": "Outward Back Knuckle",
+      "type": "Strike",
+      "belt": "Purple"
+  },
+  {
+      "name": "Verticle Thrust",
+      "type": "Finger Technique",
+      "belt": "Purple"
+  },
+  {
+      "name": "Upward Thrust Palm Up",
+      "type": "Finger Technique",
+      "belt": "Purple"
+  },
+  {
+      "name": "Overhead Whip",
+      "type": "Finger Technique",
+      "belt": "Purple"
+  },
+  {
+      "name": "Front Thrust Kick",
+      "type": "Kick",
+      "belt": "Purple"
+  },
+  {
+      "name": "Side Thrust Kick",
+      "type": "Kick",
+      "belt": "Purple"
+  },
+  {
+      "name": "Back Thrust Kick",
+      "type": "Kick",
+      "belt": "Purple"
+  },
+  {
+      "name": "Shovel",
+      "type": "Kick",
+      "belt": "Purple"
+  },
+  {
+      "name": "Push Drag",
+      "type": "Foot Maneuver",
+      "belt": "Purple"
+  },
+  {
+      "name": "Front Crossover (Forward)",
+      "type": "Foot Maneuver",
+      "belt": "Purple"
+  },
+  {
+      "name": "Front Crossover (Reverse)",
+      "type": "Foot Maneuver",
+      "belt": "Purple"
+  },
+  {
+      "name": "Concave",
+      "type": "Stance",
+      "belt": "Blue"
+  },
+  {
+      "name": "Close Kneel",
+      "type": "Stance",
+      "belt": "Blue"
+  },
+  {
+      "name": "Horizontal Downward Forearm",
+      "type": "Block",
+      "belt": "Blue"
+  },
+  {
+      "name": "Vertical Inside Forearm",
+      "type": "Block",
+      "belt": "Blue"
+  },
+  {
+      "name": "Vertical Outside Forearm",
+      "type": "Block",
+      "belt": "Blue"
+  },
+  {
+      "name": "Upward Parry",
+      "type": "Parry",
+      "belt": "Blue"
+  },
+  {
+      "name": "Horizontal Inward Palm Heel",
+      "type": "Parry",
+      "belt": "Blue"
+  },
+  {
+      "name": "Horizontal Outward Palm Heel",
+      "type": "Parry",
+      "belt": "Blue"
+  },
+  {
+      "name": "Inverted Vertical Roundhouse",
+      "type": "Punch",
+      "belt": "Blue"
+  },
+  {
+      "name": "Looping Overhead",
+      "type": "Punch",
+      "belt": "Blue"
+  },
+  {
+      "name": "Hooking",
+      "type": "Punch",
+      "belt": "Blue"
+  },
+  {
+      "name": "Inside Vertical Forearm",
+      "type": "Strike",
+      "belt": "Blue"
+  },
+  {
+      "name": "Outward Palm Heel",
+      "type": "Strike",
+      "belt": "Blue"
+  },
+  {
+      "name": "Overhead Palm Heel",
+      "type": "Strike",
+      "belt": "Blue"
+  },
+  {
+      "name": "Rear (Stiff-Arm Lifting) Palm",
+      "type": "Strike",
+      "belt": "Blue"
+  },
+  {
+      "name": "Side Thrust",
+      "type": "Finger Technique",
+      "belt": "Blue"
+  },
+  {
+      "name": "Back Thrust",
+      "type": "Finger Technique",
+      "belt": "Blue"
+  },
+  {
+      "name": "Back Claw",
+      "type": "Finger Technique",
+      "belt": "Blue"
+  },
+  {
+      "name": "Underhand Claw",
+      "type": "Finger Technique",
+      "belt": "Blue"
+  },
+  {
+      "name": "Underhand Whip",
+      "type": "Finger Technique",
+      "belt": "Blue"
+  },
+  {
+      "name": "Front Scoop",
+      "type": "Kick",
+      "belt": "Blue"
+  },
+  {
+      "name": "Rear Scoop",
+      "type": "Kick",
+      "belt": "Blue"
+  },
+  {
+      "name": "Spinning Back",
+      "type": "Kick",
+      "belt": "Blue"
+  },
+  {
+      "name": "Side Chicken",
+      "type": "Kick",
+      "belt": "Blue"
+  },
+  {
+      "name": "Front Chicken (Front then Rear)",
+      "type": "Kick",
+      "belt": "Blue"
+  },
+  {
+      "name": "Side Chicken (Rear then Front)",
+      "type": "Kick",
+      "belt": "Blue"
+  },
+  {
+      "name": "Rear Crossover",
+      "type": "Foot Maneuver",
+      "belt": "Blue"
+  },
+  {
+      "name": "Hop (Forward)",
+      "type": "Foot Maneuver",
+      "belt": "Blue"
+  },
+  {
+      "name": "Hop (Reverse)",
+      "type": "Foot Maneuver",
+      "belt": "Blue"
+  },
+  {
+      "name": "Rear Bow",
+      "type": "Stance",
+      "belt": "Green"
+  },
+  {
+      "name": "Rotating Twist",
+      "type": "Stance",
+      "belt": "Green"
+  },
+  {
+      "name": "Inward Elbow",
+      "type": "Block",
+      "belt": "Green"
+  },
+  {
+      "name": "Outward Elbow",
+      "type": "Block",
+      "belt": "Green"
+  },
+  {
+      "name": "Upward Elbow",
+      "type": "Block",
+      "belt": "Green"
+  },
+  {
+      "name": "Downward Elbow",
+      "type": "Block",
+      "belt": "Green"
+  },
+  {
+      "name": "Inside Downward Elbow",
+      "type": "Block",
+      "belt": "Green"
+  },
+  {
+      "name": "Vertical Upward Palm Heel Parry",
+      "type": "Parry",
+      "belt": "Green"
+  },
+  {
+      "name": "Vertical Downward Palm Heel Parry",
+      "type": "Parry",
+      "belt": "Green"
+  },
+  {
+      "name": "Blocking Punch",
+      "type": "Punch",
+      "belt": "Green"
+  },
+  {
+      "name": "Front Stiff Arm Lifting Back Knuckle",
+      "type": "Punch",
+      "belt": "Green"
+  },
+  {
+      "name": "Obscure Vertical Elbow",
+      "type": "Strike",
+      "belt": "Green"
+  },
+  {
+      "name": "Outward Diagonal Reverse Handsword",
+      "type": "Strike",
+      "belt": "Green"
+  },
+  {
+      "name": "Upward Claw",
+      "type": "Finger Technique",
+      "belt": "Green"
+  },
+  {
+      "name": "Back Whip (Over Shoulder)",
+      "type": "Finger Technique",
+      "belt": "Green"
+  },
+  {
+      "name": "Back WHip (Below Waist)",
+      "type": "Finger Technique",
+      "belt": "Green"
+  },
+  {
+      "name": "Horizontal Slice",
+      "type": "Finger Technique",
+      "belt": "Green"
+  },
+  {
+      "name": "Reverse Horizontal Slice",
+      "type": "Finger Technique",
+      "belt": "Green"
+  },
+  {
+      "name": "Front Stomp",
+      "type": "Kick",
+      "belt": "Green"
+  },
+  {
+      "name": "Side Stomp",
+      "type": "Kick",
+      "belt": "Green"
+  },
+  {
+      "name": "Back Stomp",
+      "type": "Kick",
+      "belt": "Green"
+  },
+  {
+      "name": "Front Cross Side Stomp",
+      "type": "Kick",
+      "belt": "Green"
+  },
+  {
+      "name": "Rear Cross Side Stomp",
+      "type": "Kick",
+      "belt": "Green"
+  },
+  {
+      "name": "Front Roundhouse Sweep",
+      "type": "Kick",
+      "belt": "Green"
+  },
+  {
+      "name": "Reverse Roundhouse Sweep",
+      "type": "Kick",
+      "belt": "Green"
+  },
+  {
+      "name": "Jump",
+      "type": "Foot Maneuver",
+      "belt": "Green"
+  },
+  {
+      "name": "Leap",
+      "type": "Foot Maneuver",
+      "belt": "Green"
+  }
+]
